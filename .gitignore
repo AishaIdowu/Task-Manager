@@ -1,3 +1,3 @@
 node_modules
-# .env is to avoid people seeing your connection string password
+# .env is to avoid people seeing your secret connection string password
 .env 
